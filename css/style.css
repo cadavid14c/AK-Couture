@@ -113,7 +113,7 @@ ul{
     background-position:center;
     background-size:500px;
 
-    opacity:.04;
+    opacity:1;
 
     pointer-events:none;
     z-index:0;
